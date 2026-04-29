@@ -1,48 +1,48 @@
-## Salut, moi c'est Jimmy
+## Hey, I'm Jimmy
 
-Developpeur Full-Stack en 3e annee a **EPITA**.
-Je conçois et deploie des applications web completes — du back-end au front-end.
+Full-Stack Developer, 3rd year CS student at **EPITA** (Paris).
+I design and ship complete web applications — from database to deployment.
 
-**En recherche d'un stage de 4-5 mois a partir de septembre 2026.**
-
----
-
-### En ce moment
-
-- Je developpe des apps full-stack avec React, Node.js et PostgreSQL
-- Je construis des outils CLI en Python (analyse de donnees, automatisation)
-- Je fais du montage video en freelance (formats courts & longs)
+**Looking for a 4-5 month internship starting September 2026.**
 
 ---
 
-### Boite a outils
+### What I'm up to
 
-**Langages** : JavaScript, TypeScript, Python, SQL
+- Building full-stack apps with React, Node.js and PostgreSQL
+- Creating Python CLI tools for data analysis and automation
+- Freelance video editing (short & long format)
+
+---
+
+### Tech Stack
+
+**Languages** : JavaScript, TypeScript, Python, SQL
 
 **Frontend** : React, Tailwind CSS, Vite
 
 **Backend** : Node.js, REST API, Vercel Serverless
 
-**Base de donnees** : PostgreSQL (Neon), Drizzle ORM
+**Database** : PostgreSQL (Neon), Drizzle ORM
 
-**Outils** : Git, Vercel, JWT, bcrypt
-
----
-
-### Projets notables
-
-[**ClientFlow**](https://github.com/jimmy-ngome/ClientFlow) — CRM complet avec pipeline kanban et gestion d'equipe
-
-[**Equinox**](https://github.com/jimmy-ngome/Equinox) — Tracker d'habitudes multi-utilisateur avec authentification
-
-[**GitPulse**](https://github.com/jimmy-ngome/GitPulse) — CLI Python qui analyse un profil GitHub et genere un rapport HTML
-
-[**Vercel Downloader**](https://github.com/jimmy-ngome/Vercel-Downloader) — App desktop pour recuperer le code source de deploiements Vercel
-
-[**Portfolio**](https://github.com/jimmy-ngome/Jimmy-Portfolio) — Mon portfolio avec CMS integre et admin panel
+**Tools** : Git, Vercel, JWT, bcrypt
 
 ---
 
-### Me contacter
+### Notable Projects
+
+[**ClientFlow**](https://github.com/jimmy-ngome/ClientFlow) — Full-featured CRM with kanban pipeline and team management
+
+[**Equinox**](https://github.com/jimmy-ngome/Equinox) — Multi-user habit tracker with JWT authentication
+
+[**GitPulse**](https://github.com/jimmy-ngome/GitPulse) — Python CLI that analyzes any GitHub profile and generates an HTML report
+
+[**Vercel Downloader**](https://github.com/jimmy-ngome/Vercel-Downloader) — Desktop app to download source code from Vercel deployments
+
+[**Portfolio**](https://github.com/jimmy-ngome/Jimmy-Portfolio) — My portfolio with built-in CMS and admin panel
+
+---
+
+### Get in touch
 
 [jimmy.ngome-ongono@epita.fr](mailto:jimmy.ngome-ongono@epita.fr) · [LinkedIn](https://www.linkedin.com/in/jimmy-ngome-2760912b9/) · [Portfolio](https://jimmmy-portfolio.vercel.app/)
